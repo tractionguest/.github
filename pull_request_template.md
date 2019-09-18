@@ -10,4 +10,4 @@
 
 - [ ] Assigned 2 or more reviewers
 - [ ] Added yourself as "Assignee"
-- [ ] Included labels such as "WIP", "Waiting for review", etc.
+- [ ] Included labels such as "WIP", "Waiting for reviews", etc.
