@@ -8,6 +8,6 @@
 
 ### PR Checklist ###
 
-[] Assigned 2 or more reviewers
-[] Added yourself as "Assignee"
-[] Included labels
+- [ ] Assigned 2 or more reviewers
+- [ ] Added yourself as "Assignee"
+- [ ] Included labels such as "WIP", "Waiting for review", etc.
