@@ -1,12 +1,12 @@
-### Wrike: ###
+### JIRA:
 
-* [LINKS TO YOUR TICKET(S) GO HERE]
+- [LINKS TO YOUR TICKET(S) GO HERE]
 
-### Description: ###
+### Description:
 
 [A BRIEF DESCRIPTION OF YOUR CHANGES]
 
-### PR Checklist ###
+### PR Checklist
 
 - [ ] Assigned 2 or more reviewers
 - [ ] Added yourself as "Assignee"
