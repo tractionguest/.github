@@ -1,6 +1,6 @@
 ### JIRA: ###
 
-- [LINKS TO YOUR TICKET(S) GO HERE]
+- https://tractionguest.atlassian.net/browse/
 
 ### Description: ###
 
