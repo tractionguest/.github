@@ -1,6 +1,6 @@
-### JIRA: ###
+### Task: ###
 
-- https://signinsolutions.atlassian.net/browse/
+- https://linear.app/signinsolutions/issue/
 
 ### Description: ###
 
